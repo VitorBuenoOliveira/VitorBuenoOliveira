@@ -1,8 +1,11 @@
 
 ### Olá! Eu sou Vitor Bueno Oliveira✋
-![Vitor Bueno Oliveira stats](https://github-readme-stats.vercel.app/api?username=VitorBuenoOliveira&show_icons=true&theme=dracula&count_private=true)
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBuenoOliveira&layout=compact&langs_count=7&theme=radical"/>
+
+
+![Vitor Bueno Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorBuenoOliveira&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBuenoOliveira&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que estou aprendendo:
 <div style="display inline_block"></br>
